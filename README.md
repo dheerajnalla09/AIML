@@ -1,109 +1,110 @@
-# 🤖 AI & Machine Learning Project
+Hi there 👋 I'm Dheeraj
 
-## 📌 Overview
+AI/ML Engineer | Generative AI Enthusiast | Cloud & DevOps Learner
 
-This repository contains projects, experiments, and implementations related to **Artificial Intelligence (AI)** and **Machine Learning (ML)**.
-It focuses on building intelligent systems that can learn from data, make predictions, and solve real-world problems.
-
----
-
-## 🚀 What is AI & ML?
-
-* **Artificial Intelligence (AI)** → Making machines think and act like humans
-* **Machine Learning (ML)** → A subset of AI where systems learn from data without explicit programming
+Passionate about building intelligent AI systems, scalable machine learning applications, and cloud-native solutions that solve real-world problems.
 
 ---
 
-## 🧠 Project Highlights
+About Me
 
-* 📊 Data preprocessing and cleaning
-* 🔍 Exploratory Data Analysis (EDA)
-* 🧮 Feature engineering
-* 🤖 Model building (Supervised & Unsupervised)
-* 📈 Model evaluation and optimization
-* 🧾 NLP (Natural Language Processing) tasks
-* 🔥 Deep Learning (LSTM, Neural Networks)
-
----
-
-## 🛠️ Tech Stack
-
-* Python 🐍
-* NumPy & Pandas
-* Scikit-learn
-* TensorFlow / Keras
-* Matplotlib & Seaborn
+- 🤖 Focused on Artificial Intelligence & Machine Learning
+- 🧠 Building LLM, RAG, and Generative AI applications
+- ☁️ Learning AWS DevOps & Cloud Architecture
+- 🔄 Experienced with CI/CD, GitHub Actions, and Infrastructure as Code
+- 📊 Skilled in SQL, Power BI, and Data Analytics
+- 🏗️ Interested in scalable AI system design & deployment
+- 📚 Continuously learning AI, ML, Cloud, and DevOps technologies
 
 ---
 
-## 📂 Project Structure
+Tech Stack
 
-```
-├── data/                # Dataset files
-├── notebooks/           # Jupyter/Colab notebooks
-├── models/              # Trained models
-├── src/                 # Source code
-├── README.md            # Project documentation
-```
+Languages
+- Python
+- SQL
+- Bash
+- JavaScript
 
----
+AI / Machine Learning
+- Scikit-learn
+- TensorFlow
+- PyTorch
+- Pandas
+- NumPy
+- NLP
+- Deep Learning
+- Generative AI
+- LLMs
+- RAG Pipelines
 
-## ⚙️ Installation
+AI Frameworks & Tools
+- LangChain
+- LangGraph
+- FastAPI
+- Vector Databases
+- OpenAI APIs
 
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-pip install -r requirements.txt
-```
+Cloud & DevOps
+- AWS
+- Microsoft Azure
+- Docker
+- Kubernetes
+- Terraform
+- GitHub Actions
+- CI/CD Pipelines
 
----
-
-## ▶️ Usage
-
-Run the notebooks or scripts to:
-
-* Train models
-* Test predictions
-* Analyze datasets
-
----
-
-## 📊 Example Use Cases
-
-* Fake News Detection 📰
-* Sentiment Analysis 💬
-* Image Classification 🖼️
-* Recommendation Systems 🎯
-
----
-
-## 📈 Future Improvements
-
-* Hyperparameter tuning
-* Model deployment (Flask / FastAPI)
-* MLOps integration
-* Real-time prediction systems
+Data & Visualization
+- Power BI
+- Excel
+- Matplotlib
+- Plotly
 
 ---
 
-## 🤝 Contributing
+Featured Projects
 
-Contributions are welcome!
-Feel free to fork the repo and submit a pull request.
+🔹 AI Fraud Detection System
+Built an AI-powered fraud detection and insurance claim risk analysis platform using Machine Learning, LLMs, PySpark, and Power BI.
 
----
+🔹 LLM RAG Chatbot
+Developed a Retrieval-Augmented Generation chatbot using LangChain, FastAPI, and vector databases for intelligent document querying.
 
-## 📜 License
+🔹 Production-Ready AI Applications
+Built scalable AI APIs with FastAPI, Docker, and cloud deployment for real-time inference.
 
-This project is licensed under the MIT License.
-
----
-
-## 👨‍💻 Author
-
-**Dheeraj**
-AI/ML Enthusiast | Data Science | DevOps
+🔹 Cloud & DevOps Automation
+Implemented Infrastructure as Code and CI/CD workflows using GitHub Actions and cloud-native DevOps practices.
 
 ---
 
-⭐ If you like this project, don’t forget to star the repo!
+Currently Learning
+- Kubernetes
+- Multi-Agent AI Systems
+- AI System Design
+
+---
+
+GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+
+---
+
+Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/dheeraj-nalla09/
+- 📧 Email: dheeraj.azure@aol.com
+- 🌐 Portfolio: https://dheerajn.online
+
+---
+
+ Fun Fact
+
+I enjoy building AI projects, exploring cloud technologies, and turning innovative ideas into real-world solutions 🚀
+
+---
+
+Thanks for visiting my profile!
