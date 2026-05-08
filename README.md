@@ -24,7 +24,6 @@ Languages
 - Python
 - SQL
 - Bash
-- JavaScript
 
 AI / Machine Learning
 - Scikit-learn
